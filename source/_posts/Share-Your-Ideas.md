@@ -8,11 +8,11 @@ tags:
   - ArchLinux
 ---
 
-## I am out of ideas...
+### I am out of ideas...
 
 As title says, I am fresh out of ideas for the moment. I need to "Borrow" your brains for a bit lol.. Maybe a tool/toolkit in GUI or CLI form, that might be useful. Of course we are talking **ArchLinux** here. I currently know **Bash** and a bit of **YAD** (Bash GUI). I do have one idea though...
 
-## Xero's ArchKDE Installer
+### Xero's ArchKDE Installer
 
 it has been boiling in my brain for a while now, a fork of the [**ArchInstall**](https://github.com/archlinux/archinstall/) script that only has the [**KDE Plasma**](https://kde.org) profile and would instead offer the 4 methods I have in my [**PlasmaInstall**](https://github.com/xerolinux/xero-plasma) script, have the **multilib** repo enabled by default and ability to set parallel downloads not hidden under `--advanced` flag, among other tweaks.
 
