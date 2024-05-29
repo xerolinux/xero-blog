@@ -114,9 +114,9 @@ home_banner:
   # Home banner image
   image: 
     light: /images/wallhaven-wqery6-light.webp # light mode
-    dark: https://w.wallhaven.cc/full/2y/wallhaven-2yxvvy.png
+    dark: https://w.wallhaven.cc/full/jx/wallhaven-jxq8yp.png
   # Home banner title
-  title: Let's Brainstorm<br />Together for ArchLinux.
+  title: <br /><br /><br /><br /> BTW # ???
   # Home banner subtitle
   subtitle:
     text: [] # subtitle text, array
