@@ -190,6 +190,9 @@ navbar:
     Forum:
       path: https://forum.xerolinux.xyz
       icon: fa-regular fa-rectangle-list # can be empty
+    Donate:
+      path: https://ko-fi.com/xerolinux
+      icon: fa-regular fa-hand-holding-dollar # can be empty
     Feed:
       path: /atom.xml
       icon: fa-regular fa-rss
