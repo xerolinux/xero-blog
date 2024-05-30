@@ -11,7 +11,7 @@ tags:
 
 ### Drivers Install
 
-As I have mentioned on an earlier post, I was stuck between using either `inxi -G` or `lscpi` commands to list GPUs available during Driver install phase of my toolkit. I opted to go with the former simply because the latter only works for `dGPUs` connected over PCIe. Wouldn't work for `iGPUs`. Now, before going through with script, it will run `inxi -G` showing you your GPU setup, you are expected to understand output, if you don't, then you need to re-evaluate your decision coming to **ArchLinux** a distro that *requires* a minimum amount of **Linux** knowledge. Anyway here's what it looks like now.
+As I have mentioned on an earlier post, I was stuck between using either `inxi -G` or `lspci` commands to list GPUs available during Driver install phase of my toolkit. I opted to go with the former simply because the latter only works for `dGPUs` connected over PCIe. Wouldn't work for `iGPUs`. Now, before going through with script, it will run `inxi -G` showing you your GPU setup, you are expected to understand output, if you don't, then you need to re-evaluate your decision coming to **ArchLinux** a distro that *requires* a minimum amount of **Linux** knowledge. Anyway here's what it looks like now.
 
 <div align="center">
 
