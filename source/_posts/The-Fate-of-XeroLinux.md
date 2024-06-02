@@ -34,4 +34,4 @@ Bref, that's a long way of saying, by donating, you will get the ISO that has al
 
 I am just trying to make money to survive, any way I can, in this case, by using the only tools I have at hand, my **Linux** knowledge, until I figure out a *real* job. So I do apologize if am boring you with this.
 
-Please vote in the poll below so I know what to do. Will expire in a week so get voting. Thanks a ton for doing so. Will check on results on a daily basis. Also whatver the results are it's Ok with me. Don't worry about it. I will continue bringing you the best I can as I learn ;)
+Please vote in the poll above so I know what to do. Will expire in a week so get voting. Thanks a ton for doing so. Will check on results on a daily basis. Also whatver the results are it's Ok with me. Don't worry about it. I will continue bringing you the best I can as I learn ;)
