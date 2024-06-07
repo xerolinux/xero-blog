@@ -81,6 +81,12 @@ Now am not gonna go over each and ever one of the containers I use. I will list 
 - [**IT-Tools**](https://github.com/CorentinTh/it-tools)
 - [**Cockpit**](https://cockpit-project.org)
 
+### Where to find more containers ?
+
+Well, there are many places, but my favorite has to be [**Selfh.st**](https://selfh.st/apps/) hands down. I love how they keep the list up-to-date showing last commit date. Site is always updated removing old unmaintained projects replacing them with newer ones. I highly recommend you bookmark this site and keep visiting it from time to time.
+
+### Closing words
+
 Anyway, I hope you have enjoyed this post, and I have helped you discover something new. It's not always one finds something that re-ignites one's pation all over again. I know it did just that for me.
 
 Thanks again for reading this. If you want to discuss the matter, you can *Toot* me on [**Fosstodon**](https://fosstodon.org/@XeroLinux) or by joining me on my [**Discord Server**](https://discord.gg/5sqxTSuKZu).
