@@ -66,7 +66,7 @@ That too doesn't need an introduction, just that it's the feed agregator I chose
 
 - **Immich**
 
-Now, this is one of the big ones, [**Immich**](https://immich.app) is an amazing image cloud like service. Allowing you to move away from **Apple** and **Google**. I love that as I said at the beginning of this long post. They even have comanion apps for both [**Android**](https://play.google.com/store/apps/details?id=app.alextran.immich) and [**iOS**](https://apps.apple.com/sg/app/immich/id1613945652) which makes it even more amazing. Now we can sync out photos and videos between devices. I recommend this one to everyone who cares about their data.
+Now, this is one of the big ones, [**Immich**](https://immich.app) is an amazing image cloud like service. Allowing you to move away from **Apple** and **Google**. I love that as I said at the beginning of this long post. They even have companion apps for both [**Android**](https://play.google.com/store/apps/details?id=app.alextran.immich) and [**iOS**](https://apps.apple.com/sg/app/immich/id1613945652) which makes it even more amazing. Now we can sync out photos and videos between devices. I recommend this one to everyone who cares about their data.
 
 ### You get the idea
 
