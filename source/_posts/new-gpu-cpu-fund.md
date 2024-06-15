@@ -1,5 +1,5 @@
 ---
-title: New GPU &/or CPU Fund
+title: GPU &/or CPU Upgrade Fund
 date: 2024-06-15 16:06:24
 tags:
   - Linux
