@@ -28,7 +28,9 @@ Initially, I embarked on this journey for fun and to learn new things. However, 
 
 ### Monetization Attempts
 
-As my financial situation became more strained, I reluctantly turned to monetization. Many advised me to turn my passion into a viable source of income. So, I tried implementing a "pay what you can" model, hoping it would help sustain my work. However, this didn’t go as planned. The **FOSS** community, known for its spirit of freedom, often struggles with the concept of financial support for free software. It’s a complex issue, and while some have been supportive, overall, the response hasn’t been enough to make a significant difference.
+As my financial situation became more strained, I reluctantly turned to monetization. Many advised me to turn my passion into a viable source of income. So, I tried implementing a "pay what you can" model, hoping it would help sustain my work. However, this didn’t go as planned.
+
+The **FOSS** community, known for its spirit of freedom, often struggles with the concept of financial support for free software. It’s a complex issue, and while some have been supportive, overall, the response hasn’t been enough to make a significant difference.
 
 ### Health Concerns
 
