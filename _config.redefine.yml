@@ -187,9 +187,6 @@ navbar:
     XeroLinux:
       path: https://xerolinux.xyz
       icon: fa-regular fa-globe # can be empty
-    Forum:
-      path: https://forum.xerolinux.xyz
-      icon: fa-regular fa-rectangle-list # can be empty
     Donate:
       path: https://ko-fi.com/xerolinux
       icon: fa-regular fa-hand-holding-dollar # can be empty
